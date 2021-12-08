@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd2e7472f0caf9841bdfccc41c438120, type: 3}
+  m_Name: BottomPanelDataBase
+  m_EditorClassIdentifier: 
+  bottomPanelList:
+  - {fileID: 11400000, guid: 9b01ce5534453924981400e39c4520e4, type: 2}
+  - {fileID: 11400000, guid: 378ffc4d92168644cb5a8cb29df04df1, type: 2}
+  - {fileID: 11400000, guid: a3592a1fe54d1824bb27246592a64d60, type: 2}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6178dc6662dfae342813c6d0b23bacc3, type: 3}
+  m_Name: CarFirstSO
+  m_EditorClassIdentifier: 
+  _carPrefab: {fileID: 3680758681427786424, guid: 7c08f17880d63d34aa1ec410ba561ede, type: 3}
+  _id: 1
+  _speed: 10
+  _gasoline: 20
+  _capacity: 30

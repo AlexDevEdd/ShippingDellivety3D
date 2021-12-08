@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FirstPersonPlayerCreator_Simple
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: f517d8a605a0f304ab0d42aed22376cf, type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: nameOfObject
+    value: Player
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: linkToPlayer
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: modelToAttach
+    value: 
+    objectReference: {fileID: 2901983755810454140, guid: 65988e4417c0a674c9d157b68f386fc0, type: 3}
+  - target: {fileID: 0}
+    propertyPath: isHasBoxCollider
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: isUseModelBoxCollider
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fixedBoxColliderSize.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fixedBoxColliderSize.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fixedBoxColliderSize.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: isForceRemoveModelCollider
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: animatorOnModel
+    value: 
+    objectReference: {fileID: 9100000, guid: 164aeb442a40b064392650257f5f84a1, type: 2}
+  - target: {fileID: 0}
+    propertyPath: fps
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: isUsePhysicRigidbody
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: isUseGravity
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: isKinematic
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: playerData.maxHp
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: playerData.currentHp
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: playerData.runSpeed
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: playerData.walkSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: playerData.isRunning
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: playerData.isAlive
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: animations.Array.size
+    value: 7
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: animations.Array.data[0]
+    value: 
+    objectReference: {fileID: 7400000, guid: 2a6891965d2d92c4885cfa4039a41473, type: 2}
+  - target: {fileID: 0}
+    propertyPath: animations.Array.data[1]
+    value: 
+    objectReference: {fileID: 7400000, guid: 777a573df063b634d925a3d529375e55, type: 2}
+  - target: {fileID: 0}
+    propertyPath: animations.Array.data[2]
+    value: 
+    objectReference: {fileID: 7400000, guid: 0f8e706ebb7832547be9cd2fb8a111d7, type: 2}
+  - target: {fileID: 0}
+    propertyPath: animations.Array.data[3]
+    value: 
+    objectReference: {fileID: 7400000, guid: 3bd8aebd600b42447923d5c9ecda5da9, type: 2}
+  - target: {fileID: 0}
+    propertyPath: animations.Array.data[4]
+    value: 
+    objectReference: {fileID: 7400000, guid: be0ec1010dba91f4885990759e28a8ac, type: 2}
+  - target: {fileID: 0}
+    propertyPath: animations.Array.data[5]
+    value: 
+    objectReference: {fileID: 7400000, guid: 48227aa775b9f5f49aa2e587135f8ed8, type: 2}
+  - target: {fileID: 0}
+    propertyPath: animations.Array.data[6]
+    value: 
+    objectReference: {fileID: 7400000, guid: 863ad0bcf6822b742b1b4d083237c406, type: 2}
+  - target: {fileID: 0}
+    propertyPath: testAnimationToPlayId
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: testAnimationCrossfade
+    value: 0
+    objectReference: {fileID: 0}
+  m_ExcludedProperties: []

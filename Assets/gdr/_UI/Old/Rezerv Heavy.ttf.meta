@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e7532d720a71a1e4aad8e38a0b1a75d1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rezerv
+  fontNames:
+  - Rezerv
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 72789826c66358647b814da5f1a93666, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
